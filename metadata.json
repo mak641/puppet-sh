@@ -1,0 +1,15 @@
+{
+  "name": "khan-ssh",
+  "version": "0.1.0",
+  "author": "Asim Khan <khan@server1.jungle.com>",
+  "summary": "this module will manage ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/mak641/puppet-sh",
+  "project_page": "https://github.com/mak641/puppet-sh",
+  "issues_url": "https://github.com/mak641/puppet-sh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
